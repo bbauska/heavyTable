@@ -1,4 +1,4 @@
-// jQuery function
+// jQuery function in js/scripts.js of bbauska/heavyTable making heavyTable.bauska.org
 (function($) {
   $.fn.heavyTable = function(params) {
 
